@@ -4,31 +4,31 @@ import { Layout, Image as ImageIcon, Type, Sparkles } from 'lucide-react';
 const posters = [
   {
     id: 1,
-    image: '/poster-SILENT DUNE.png',
+    image: 'poster-SILENT DUNE.png',
     title: 'SILENT DUNE',
     span: 'col-span-1'
   },
   {
     id: 2,
-    image: '/poster-极简沙漠植物雕塑.png',
+    image: 'poster-极简沙漠植物雕塑.png',
     title: 'DESERT SCULPTURE',
     span: 'col-span-1'
   },
   {
     id: 3,
-    image: '/poster-深渊探机.png',
+    image: 'poster-深渊探机.png',
     title: 'ABYSS EXPLORER',
     span: 'col-span-1'
   },
   {
     id: 4,
-    image: '/poster-FUTURE AGRI-HUB.png',
+    image: 'poster-FUTURE AGRI-HUB.png',
     title: 'AGRI HUB (EN)',
     span: 'col-span-1'
   },
   {
     id: 5,
-    image: '/poster-未来农业枢纽.png',
+    image: 'poster-未来农业枢纽.png',
     title: '未来农业枢纽 (CN)',
     span: 'col-span-1'
   }

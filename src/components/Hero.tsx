@@ -80,7 +80,7 @@ export default function Hero() {
             <div className="flex-1 relative bg-black" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} onClick={togglePlay}>
               <video 
                 ref={videoRef}
-                src="/5月10日.mp4" 
+                src="5月10日.mp4" 
                 loop 
                 muted 
                 playsInline
